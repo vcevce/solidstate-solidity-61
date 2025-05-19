@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "version": "0.61.0",
   "private": true,
   "author": "Nick Barry",
   "license": "MIT",
